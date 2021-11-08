@@ -30,7 +30,7 @@ I’m a full-stack web developer and creative coder who specializes in MERN stac
 ![Redis_Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Featured Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Mental-Health&theme=tokyonight&hide_border=true)](https://github.com/pratikjadhav080/Mental-Health)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Mental-Health&theme=tokyonight&hide_border=true)](https://github.com/pratikjadhav080/Mental-Health) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=tokyonight&hide_border=true)](https://github.com/pratikjadhav080/Nordstrom-clone)
 
 ### My GitHub Stats:

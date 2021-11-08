@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/pratikjadhav080/pratikjadhav080/blob/main/gitimg2.jpg" />
+<img src="https://github.com/pratikjadhav080/pratikjadhav080/blob/main/newgitimg.png" />
 
 <p align="center">
  

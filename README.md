@@ -37,7 +37,7 @@ I’m a full-stack web developer and creative coder who specializes in MERN stac
 
 ### Featured Repositories:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Mental-Health&theme=tokyonight&hide_border=true)](https://github.com/pratikjadhav080/Mental-Health) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=tokyonight&hide_border=true)](https://github.com/pratikjadhav080/Nordstrom-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Nordstrom-clone)
 
 ### My GitHub Stats:
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=pratikjadhav080&theme=tokyonight_duo)

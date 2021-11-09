@@ -7,7 +7,7 @@
  
  <img src="https://badges.pufler.dev/visits/pratikjadhav080/pratikjadhav080"/> 
  <img src="https://badges.pufler.dev/repos/pratikjadhav080"/>
- <img src="https://badges.pufler.dev/commits/monthly/pratikjadhav080" />
+ <img src="https://badges.pufler.dev/commits/monthly/pratikjadhav080"/>
 
 </p>
 

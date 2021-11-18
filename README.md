@@ -1,15 +1,6 @@
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/pratikjadhav080/pratikjadhav080/blob/main/pratik.gif" />
 
-<p align="center">
- 
-<!--  <img src="https://badges.pufler.dev/visits/pratikjadhav080/pratikjadhav080"/> 
- <img src="https://badges.pufler.dev/repos/pratikjadhav080"/>
- <img src="https://badges.pufler.dev/commits/monthly/pratikjadhav080"/> -->
+![gif](pratik.gif)
 
-</p>
 
 I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 

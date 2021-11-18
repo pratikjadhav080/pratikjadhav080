@@ -1,5 +1,7 @@
 
-![gif](pratik.gif)
+<!-- ![gif](pratik.gif) -->
+![gif](pratikintrofinal.gif)
+
 
 
 I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.

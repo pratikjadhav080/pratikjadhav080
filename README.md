@@ -1,6 +1,5 @@
 
-<!-- ![gif](pratik.gif) -->
-![gif](pratikintrofinal.gif)
+![gif](pratik.gif)
 
 
 

@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/pratikjadhav080/pratikjadhav080/blob/main/pratikintrofinal.gif" />
+<img src="https://github.com/pratikjadhav080/pratikjadhav080/blob/main/pratik.gif" />
 
 <p align="center">
  

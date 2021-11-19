@@ -1,14 +1,11 @@
 
 ![gif](pratik.gif)
 
-
-
 I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms**
 - :bow_and_arrow: Currently building [Mental Health](https://github.com/pratikjadhav080/Mental-Health) - Health & Wellness Web Application
 - ⚡ Fun fact: I like to sing and play guitar.
-
 
 <h2>Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -41,3 +38,5 @@ I’m a full-stack web developer and creative coder who specializes in MERN stac
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratikjadhav080) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PratikRajuJadh2)
 <a href="mailto:pratikjadhav080@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### Looking forward to collaborate on interesting projects, share your creative ideas with me and let's build together. 🤝

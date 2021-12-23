@@ -24,16 +24,16 @@ I’m a full-stack web developer and creative coder who specializes in MERN stac
 <img src="https://img.shields.io/badge/MaterialUI-007ACC?style=for-the-badge&logo=materialui&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-### Featured Repositories:
+<!-- ### Featured Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Cult-Fit-Client&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Cult-Fit-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Mental-Health-Client&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Mental-Health-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Nordstrom-clone)
-
+ -->
 ### My GitHub Stats:
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=pratikjadhav080&theme=tokyonight_duo)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjadhav080&hide=java,Jupyter Notebook,shaderlab,kotlin,hlsl&theme=tokyonight&hide_border=true">
-
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjadhav080&hide=java,Jupyter Notebook,shaderlab,kotlin,hlsl&theme=tokyonight&hide_border=true">
+ -->
 ### Reach me on 🌏
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-r-jadhav-70407b208/)
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratikjadhav080) 

@@ -25,7 +25,7 @@ I’m a full-stack web developer and creative coder who specializes in MERN stac
 </p>
 
 ### Featured Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Cult-Fit-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Cult-Fit-Client&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Cult-Fit-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Mental-Health-Client&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Mental-Health-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikjadhav080&repo=Nordstrom-clone&theme=github_dark&hide_border=false&show_owner=true)](https://github.com/pratikjadhav080/Nordstrom-clone)
 

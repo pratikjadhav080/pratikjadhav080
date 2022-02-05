@@ -3,8 +3,7 @@
 
 I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms**
-- :bow_and_arrow: Currently building [Mental Health](https://github.com/pratikjadhav080/Mental-Health) - Health & Wellness Web Application
+- 🌱 Working on the **MERN Stack** and **Data Structures & Algorithms**
 - ⚡ Fun fact: I like to sing and play guitar.
 
 <h2>Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
